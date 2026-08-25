@@ -114,15 +114,19 @@ Proposed novel prompt-refinement methodologies and token-optimization strategies
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kalyan768&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kalyan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan768&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/kalyan768?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/kalyan768?label=Stars&style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kalyan768&label=Public%20Repos&query=public_repos&style=for-the-badge&color=orange" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kalyan768&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
+<!--
+Optional: if you'd like the richer visual stats/streak cards, add these once your repo is live —
+they depend on a third-party rendering service (github-readme-stats) which can be slow or
+rate-limited, so they're commented out here to keep the profile reliably loading:
 
-> **Note:** These stats cards are generated live by a third-party service and can occasionally take a few seconds to load, or fail to render on GitHub's cache until the repo has some activity. If they don't appear, refresh the page after pushing a commit — they'll populate automatically once GitHub crawls the repo.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kalyan768&show_icons=true&theme=dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan768&layout=compact&theme=dark&hide_border=true" />
+-->
 
 ---
 
